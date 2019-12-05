@@ -1,7 +1,6 @@
 #include<conio.h>
 #include<iostream>
 #include<vector>
-#include <list>
 using namespace std;
 
 //vector<string> keyword = { "Asm","catch","default","enum","for","goto","" };
